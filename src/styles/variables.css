@@ -1,0 +1,17 @@
+:root {
+  --primary-color: #17324d;
+  --primary-hover: #0f2338;
+  --secondary-color: #f2a93b;
+  --background-color: #f7f8fa;
+  --surface-color: #ffffff;
+  --text-color: #17202a;
+  --muted-text-color: #6b7280;
+  --border-color: #e5e7eb;
+  --success-color: #15803d;
+  --error-color: #b91c1c;
+  --warning-color: #d97706;
+  --border-radius: 10px;
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.1);
+  --transition: all 0.2s ease-in-out;
+}
